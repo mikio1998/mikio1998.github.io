@@ -9,7 +9,7 @@ name: Marco Contino
 description: iOS Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/Marcoc88/Marcoc88.github.io/master/images/rosemary.png
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: marcoacontino@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Marcoc88
   instagram:
   linkedin:
   pinterest:
