@@ -9,7 +9,7 @@ name: Marco Contino
 description: iOS Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![Rosemary the Cat]({{ site.baseurl }}/images/jekyll-logo.png "Rosemary")
+avatar: [Rosemary the Cat]({{ site.baseurl }}/images/jekyll-logo.png "Rosemary")
 
 #
 # Flags below are optional
