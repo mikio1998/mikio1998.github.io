@@ -13,6 +13,13 @@ Next, create an IBOutlet for your button (unless you created it programmatically
 
 It should look something like this. I named mine shadowButton.
 
+```swift
+class ViewController: UIViewController {
+  @IBOutlet weak var shadowButton: UIButton!
+}
+```
+ 
+
 Next we need to write a function that updates the look of the button.
 
 1. **backgroundColor** is set to white. You can set it to any color, just make sure to pick a color as having a transparent background will cause the shadow to show through the inside of the button.
