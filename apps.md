@@ -27,7 +27,7 @@ permalink: /apps/
   border-radius: 12px;
 }
 .button:hover {
-  color: white;
+  color: gray;
 }
 </style>
 
