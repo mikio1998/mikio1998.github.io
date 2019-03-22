@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to contributing to open source as a Swift developer
+title: Contributing to open source as a Swift developer
 ---
 
 Looking to contribute to open source projects but don’t know where to start? I put together a video walking through the process from start to finish. (shown below)
