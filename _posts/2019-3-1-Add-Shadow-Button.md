@@ -50,8 +50,9 @@ class ViewController: UIViewController {
   @IBOutlet weak var shadowButton: UIButton! {
     didSet {
       setShadowButtonDisplay()
-      }
+     }
    }
+   
   func setShadowButtonDisplay() {
     shadowButton.backgroundColor = .white
     shadowButton.layer.cornerRadius = 20
