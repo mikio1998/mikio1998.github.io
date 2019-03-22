@@ -52,5 +52,3 @@ Speedometer that runs in the background and sends a notifications when moving ov
   color: black;
 }
 </style>
-
-<hr style="border-top: 1px solid #ccc; background: transparent;">
