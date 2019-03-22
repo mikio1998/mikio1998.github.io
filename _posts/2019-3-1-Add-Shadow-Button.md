@@ -15,13 +15,13 @@ It should look something like this. I named mine shadowButton.
 
 Next we need to write a function that updates the look of the button.
 
-1. backgroundColor is set to white. You can set it to any color, just make sure to pick a color as having a transparent background will cause the shadow to show through the inside of the button.
-2. cornerRadius determines the angle of the curved edges of the button. I prefer the look when it is set to 20 but you can play around with this to see what looks best for your button.
-3. shadowColor determines the color of the button's shadow. It must be a CGColor.
-4. shadowOpacity determines how transparent the shadow is (0-1). I prefer 0.75 but you can play around with this to see what looks best for your button.
-5. shadowOffset determines how far away from the button the shadow should be. Setting it to zero displays the shadow equally around all sides of the button.
-6. shadowRadius determines how wide the shadow should be. I prefer 5 but you can play around with this to see what looks best for your button.
-7. shadowPath determines the shape of the shadow. Here we set it to match the shape of the button including the button's rounded corners.
+1. **backgroundColor** is set to white. You can set it to any color, just make sure to pick a color as having a transparent background will cause the shadow to show through the inside of the button.
+2. **cornerRadius** determines the angle of the curved edges of the button. I prefer the look when it is set to 20 but you can play around with this to see what looks best for your button.
+3. **shadowColor** determines the color of the button's shadow. It must be a CGColor.
+4. **shadowOpacity** determines how transparent the shadow is (0-1). I prefer 0.75 but you can play around with this to see what looks best for your button.
+5. **shadowOffset** determines how far away from the button the shadow should be. Setting it to zero displays the shadow equally around all sides of the button.
+6. **shadowRadius** determines how wide the shadow should be. I prefer 5 but you can play around with this to see what looks best for your button.
+7. **shadowPath** determines the shape of the shadow. Here we set it to match the shape of the button including the button's rounded corners.
 
 Finally, update our shadowButton IBOutlet with didSet. Within didSet call our setsButtonDisplay function.
 
