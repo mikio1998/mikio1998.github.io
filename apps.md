@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AppsTest
+title: <h1 align="center">Apps</h1>
 permalink: /apps/
 ---
 
