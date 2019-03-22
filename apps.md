@@ -24,10 +24,10 @@ permalink: /apps/
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  border-radius: 12px;
 }
 </style>
 
-.button {border-radius: 12px;}
 <p align="center">
 <a href="www.google.com" class="button">View App</a>
 </p>
