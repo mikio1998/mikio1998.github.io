@@ -26,12 +26,14 @@ permalink: /apps/
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-  allign: center;
 }
+.button {border-radius: 12px;}
 </style>
 </head>
 <body>
-<a href="#" class="button">Link Button</a>
+<p align="center">
+<a href="www.google.com" class="button">Link Button</a>
+</p>
 </body>
 </html>
 
