@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Summary
 
-### More Information
+iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Objective-C.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Skills
+
+* Swift, 
+* Objective-C
+* UIKit
+* Storyboards and XIBs
+* Design Patterns
+* XCTest
+* Accessibility
+* Firebase
+* Git
+* CocoaPods
+* Fastlane
+* Jenkins
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marcoacontino@gmail.com](mailto:marcoacontino@gmail.com)
