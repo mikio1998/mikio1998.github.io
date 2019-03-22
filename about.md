@@ -8,6 +8,8 @@ permalink: /about/
 
 iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Objective-C.
 
+<hr>
+
 <h3 align="center">Skills</h3>
 
 * Swift, 
@@ -22,6 +24,8 @@ iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Obje
 * CocoaPods
 * Fastlane
 * Jenkins
+
+<hr>
 
 <h3 align="center">Contact me</h3>
 
