@@ -9,8 +9,10 @@ Recently I needed to create a rounded button with a uniform shadow as shown belo
 
 First create your button. I chose to do it in a storyboard but you could also use a XIB or create it programatically. Give your button some constraints. To keep things simple I just centered it horizontally and vertically in its containing view and gave it a width of 200 and a height of 40. Also give your button a title.
 
+<img src="{{ site.baseurl }}/images/FC92941B-CE9B-40B6-96B8-E183C4BE74D9.jpeg.png" alt="Shadow Button"/>
 
 Next, create an IBOutlet for your button (unless you created it programmatically).
+<img src="{{ site.baseurl }}/images/5C309268-8569-4CE1-898C-A5B63FD402BE.png" alt="Shadow Button"/>
 
 It should look something like this. I named mine shadowButton.
 
@@ -66,3 +68,5 @@ class ViewController: UIViewController {
 }
 ```
 Build and run the project. You should now see your button with rounded edges and a uniform shadow.
+
+<img src="{{ site.baseurl }}/images/87B3DC07-40DA-4460-83D6-7F592E1B5DFF.png" alt="Shadow Button"/>
