@@ -16,7 +16,7 @@ permalink: /apps/
 <a href="https://marcoc88.github.io/timestamp-landing-page/" class="button">View Details</a>
 </p>
 
-Add a date and/or time stamp to photos that you take or that are already in your camera roll.
+Take timestamped photos or select images already in your camera roll and add a timestamp to each image.
 
 <hr>
 
