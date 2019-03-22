@@ -12,6 +12,7 @@ permalink: /apps/
 </a>
 </p>
 
+<html>
 <head>
 <style>
 .button {
@@ -29,8 +30,9 @@ permalink: /apps/
 </style>
 </head>
 <body>
-<a href="#" class="button">Test Button</a>
+<a href="#" class="button">Link Button</a>
 </body>
+</html>
 
 Add a date and/or time stamp to photos that you take or that are already in your camera roll.
 
