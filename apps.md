@@ -7,14 +7,13 @@ permalink: /apps/
 <h2 align="center">Timestamp Images</h2>
 
 <p align="center">
-<a href="https://marcoc88.github.io/timestamp-landing-page/">
 <img src="{{ site.baseurl }}/images/timestamplogo.png" alt="Timestamp Logo" width="200" height="200"/>
 </a>
 </p>
 
 <style>
 .button {
-  background-color: #8B0000;
+  background-color: #cc150c;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -29,7 +28,7 @@ permalink: /apps/
 </style>
 
 <p align="center">
-<a href="www.google.com" class="button">View App</a>
+<a href="www.google.com" class="button">View Details</a>
 </p>
 
 Add a date and/or time stamp to photos that you take or that are already in your camera roll.
