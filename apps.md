@@ -4,7 +4,7 @@ title: Apps
 permalink: /apps/
 ---
 
-## Timestamp
+<h2 align="center">Timestamp Images</h2>
 
 <p align="center">
 <a href="https://marcoc88.github.io/timestamp-landing-page/">
@@ -14,7 +14,7 @@ permalink: /apps/
 
 Add a date and/or time stamp to photos that you take or that are already in your camera roll.
 
-## GO Hatch Eggs
+<h2 align="center">GO Hatch Eggs</h2>
 
 <p align="center">
 <a href="https://itunes.apple.com/us/app/go-hatch-eggs/id1160596081?mt=8">
