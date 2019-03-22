@@ -41,7 +41,7 @@ func setShadowButtonDisplay() {
 6. **shadowRadius** determines how wide the shadow should be. I prefer 5 but you can play around with this to see what looks best for your button.
 7. **shadowPath** determines the shape of the shadow. Here we set it to match the shape of the button including the button's rounded corners.
 
-Finally, update our shadowButton IBOutlet with didSet. Within didSet call our setsButtonDisplay function.
+Finally, update our shadowButton IBOutlet with didSet. Within didSet call our setShadowButtonDisplay function.
 
 ```swift
 
