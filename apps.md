@@ -26,6 +26,9 @@ permalink: /apps/
   cursor: pointer;
   border-radius: 12px;
 }
+.button:hover {
+  color: white;
+}
 </style>
 
 <p align="center">
