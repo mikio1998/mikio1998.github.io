@@ -14,6 +14,8 @@ permalink: /apps/
 
 Add a date and/or time stamp to photos that you take or that are already in your camera roll.
 
+<hr>
+
 <h2 align="center">GO Hatch Eggs</h2>
 
 <p align="center">
