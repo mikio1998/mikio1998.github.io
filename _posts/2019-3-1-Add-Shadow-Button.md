@@ -5,6 +5,7 @@ title: Add a shadow to a button with rounded edges
 
 Recently I needed to create a rounded button with a uniform shadow as shown below. This post outlines how this can be achieved. These same steps can be used for other views such as a UITextField or UIImageView.
 
+<img src="{{ site.baseurl }}/images/301717F3-57A7-472F-A5D7-0880C746BCA9.jpeg" alt="Shadow Button"/>
 
 First create your button. I chose to do it in a storyboard but you could also use a XIB or create it programatically. Give your button some constraints. To keep things simple I just centered it horizontally and vertically in its containing view and gave it a width of 200 and a height of 40. Also give your button a title.
 
