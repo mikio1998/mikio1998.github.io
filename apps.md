@@ -4,12 +4,12 @@ title: Apps
 permalink: /apps/
 ---
 
-Apps I have built
+### Timestamp
 
-### More Information
+Add a date and/or time stamp to photos that you take or that are already in your camera roll.
 
-A place to include any other types of information that you'd like to include about yourself.
+![_config.yml]({{ site.baseurl }}/images/timestamplogo.png)
 
-### Contact me
+### GO Hatch Eggs
+Speedometer that runs in the background and sends a notifications when moving over a user defined speed threshold.
 
-[email@domain.com](mailto:email@domain.com)
