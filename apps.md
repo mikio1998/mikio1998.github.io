@@ -47,5 +47,9 @@ Add a date and/or time stamp to photos that you take or that are already in your
 </a>
 </p>
 
+<p align="center">
+<a href="https://itunes.apple.com/us/app/go-hatch-eggs/id1160596081?mt=8" class="button">View Details</a>
+</p>
+
 Speedometer that runs in the background and sends a notifications when moving over a user defined speed threshold.
 
