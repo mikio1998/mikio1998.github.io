@@ -18,9 +18,20 @@ class ViewController: UIViewController {
   @IBOutlet weak var shadowButton: UIButton!
 }
 ```
- 
 
 Next we need to write a function that updates the look of the button.
+
+```swift
+func setShadowButtonDisplay() {
+  shadowButton.backgroundColor = .white
+  shadowButton.layer.cornerRadius = 20
+  shadowButton.shadowColor = UIColor.blue.cgColor
+  shadowButton.layer.shadowOpacity = 0.75
+  shadowButton.layer.shadowOffset = .zero
+  shadowButton.layer.shadowRadius = 5
+  shadowButton.layer.shadowPath = UIBezierPath(roundedRect: shadowButton.bounds, cornerRadius: shadowButton.layer.cornerRadius).cgPath
+}
+```
 
 1. **backgroundColor** is set to white. You can set it to any color, just make sure to pick a color as having a transparent background will cause the shadow to show through the inside of the button.
 2. **cornerRadius** determines the angle of the curved edges of the button. I prefer the look when it is set to 20 but you can play around with this to see what looks best for your button.
@@ -32,4 +43,24 @@ Next we need to write a function that updates the look of the button.
 
 Finally, update our shadowButton IBOutlet with didSet. Within didSet call our setsButtonDisplay function.
 
+```swift
+
+class ViewController: UIViewController {
+
+  @IBOutlet weak var shadowButton: UIButton! {
+    didSet {
+      setShadowButtonDisplay()
+    }
+   }
+func setShadowButtonDisplay() {
+  shadowButton.backgroundColor = .white
+  shadowButton.layer.cornerRadius = 20
+  shadowButton.shadowColor = UIColor.blue.cgColor
+  shadowButton.layer.shadowOpacity = 0.75
+  shadowButton.layer.shadowOffset = .zero
+  shadowButton.layer.shadowRadius = 5
+  shadowButton.layer.shadowPath = UIBezierPath(roundedRect: shadowButton.bounds, cornerRadius: shadowButton.layer.cornerRadius).cgPath
+  }
+}
+```
 Build and run the project. You should now see your button with rounded edges and a uniform shadow.
