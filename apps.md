@@ -14,7 +14,7 @@ permalink: /apps/
 
 <style>
 .button {
-  background-color: #4CAF50;
+  background-color: #FF0000;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -29,7 +29,7 @@ permalink: /apps/
 
 .button {border-radius: 12px;}
 <p align="center">
-<a href="www.google.com" class="button">Link Button</a>
+<a href="www.google.com" class="button">View App</a>
 </p>
 
 Add a date and/or time stamp to photos that you take or that are already in your camera roll.
