@@ -12,7 +12,6 @@ permalink: /apps/
 </a>
 </p>
 
-<head>
 <style>
 .button {
   background-color: #4CAF50;
@@ -28,7 +27,7 @@ permalink: /apps/
 }
 .button {border-radius: 12px;}
 </style>
-</head>
+
 <body>
 <p align="center">
 <a href="www.google.com" class="button">Link Button</a>
