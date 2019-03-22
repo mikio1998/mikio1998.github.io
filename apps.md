@@ -49,6 +49,6 @@ Speedometer that runs in the background and sends a notifications when moving ov
   border-radius: 12px;
 }
 .button:hover {
-  color: gray;
+  color: black;
 }
 </style>
