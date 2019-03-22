@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: <h1 align="center">About</h1>
 permalink: /about/
 ---
 
-### Summary
+<h3 align="center">Summary</h3>
 
 iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Objective-C.
 
-### Skills
+<h3 align="center">Skills</h3>
 
 * Swift, 
 * Objective-C
@@ -23,6 +23,6 @@ iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Obje
 * Fastlane
 * Jenkins
 
-### Contact me
+<h3 align="center">Contact me</h3>
 
 [marcoacontino@gmail.com](mailto:marcoacontino@gmail.com)
