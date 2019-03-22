@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h1 align="center">Apps</h1>
+title: Apps
 permalink: /apps/
 ---
 
