@@ -12,25 +12,6 @@ permalink: /apps/
 </a>
 </p>
 
-<style>
-.button {
-  background-color: #cc150c;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 12px;
-}
-.button:hover {
-  color: gray;
-}
-</style>
-
 <p align="center">
 <a href="https://marcoc88.github.io/timestamp-landing-page/" class="button">View Details</a>
 </p>
@@ -53,3 +34,21 @@ Add a date and/or time stamp to photos that you take or that are already in your
 
 Speedometer that runs in the background and sends a notifications when moving over a user defined speed threshold.
 
+<style>
+.button {
+  background-color: #cc150c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.button:hover {
+  color: gray;
+}
+</style>
