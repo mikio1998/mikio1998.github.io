@@ -14,7 +14,7 @@ permalink: /apps/
 
 <style>
 .button {
-  background-color: #FF0000;
+  background-color: #FF6347;
   border: none;
   color: white;
   padding: 15px 32px;
