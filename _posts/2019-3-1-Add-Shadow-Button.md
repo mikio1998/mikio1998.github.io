@@ -9,7 +9,7 @@ Recently I needed to create a rounded button with a uniform shadow as shown belo
 
 First create your button. I chose to do it in a storyboard but you could also use a XIB or create it programatically. Give your button some constraints. To keep things simple I just centered it horizontally and vertically in its containing view and gave it a width of 200 and a height of 40. Also give your button a title.
 
-<img src="{{ site.baseurl }}/images/FC92941B-CE9B-40B6-96B8-E183C4BE74D9.jpeg.png" alt="Shadow Button"/>
+<img src="{{ site.baseurl }}/images/FC92941B-CE9B-40B6-96B8-E183C4BE74D9.jpeg" alt="Shadow Button"/>
 
 Next, create an IBOutlet for your button (unless you created it programmatically).
 
