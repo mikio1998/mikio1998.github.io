@@ -14,7 +14,7 @@ iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Obje
 
 * Swift, 
 * Objective-C
-* UIKit
+* Cocoa Touch
 * Storyboards and XIBs
 * Design Patterns
 * XCTest
