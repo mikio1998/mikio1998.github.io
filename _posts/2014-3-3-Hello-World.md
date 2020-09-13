@@ -4,13 +4,10 @@ title: Welcome!
 ---
 My name is Mikio Nakata, a third year university student in Japan studying economics, and an aspiring Software developer. 
 
-newline
-
-About me:
+## About me:
 
 When I am not at school, I am following my passion for invention and technology by developing native iOS apps. I also like (coding challenges) and blockchain. Otherwise, I like traveling the road on my bicycle.  
 
-newLine
 
 My favorite passion project is an accounting/inventory tool that I developed for a clothing store I work at as a regular employee. (Please read about it here.)
 
