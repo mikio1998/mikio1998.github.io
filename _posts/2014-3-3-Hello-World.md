@@ -2,7 +2,7 @@
 layout: post
 title: Hello there!
 ---
-My name is Mikio Nakata, a third year university student in Japan studying economics, and an aspiring Software developer. 
+My name is Mikio Nakata, a third year university student in Japan studying economics and an aspiring Software developer. 
 
 ## About me:
 
