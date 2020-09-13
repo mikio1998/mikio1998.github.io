@@ -8,11 +8,11 @@ Keio University, 3rd year Economics major. iOS developer.
 
 ### Skills
 
-Swift
-Objective-C
-Python 
-Javascript
-HTML/CSS
+* Python 
+* Swift
+* Objective-C
+* Javascript
+* HTML/CSS
 
 ### Contact me
 
