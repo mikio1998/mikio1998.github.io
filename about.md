@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Keio University, 3rd year Economics major. iOS developer.
 
-### More Information
+### Skills
 
-A place to include any other types of information that you'd like to include about yourself.
+Swift
+Objective-C
+Python 
+Javascript
+HTML/CSS
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[21nakatam@gmail.com](mailto:21nakatam@gmail.com)
