@@ -10,7 +10,7 @@ When I am not at school, I am following my passion for invention and technology 
 
 My proudest passion project is an accounting/inventory tool that I developed for a clothing store I work at as a regular employee. (Please read about it here.)
 
-With permission I established a Firestore database for the store's inventory. 
+My resume is (here).
 
 ### Skills
 
