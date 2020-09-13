@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome!
+title: First!
 ---
 My name is Mikio Nakata, a third year university student in Japan studying economics and an aspiring Software developer. 
 
