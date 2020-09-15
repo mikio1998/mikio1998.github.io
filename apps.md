@@ -32,6 +32,7 @@ Page-view inspired interface to display products categorized by brand.
 <hr>
 
 <div align="center">
+<h3>How to record a sold item</h3>  
 <img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 3" width="200" height="437"/>
 <br>
 Adding a sold product to the sales tracker.
