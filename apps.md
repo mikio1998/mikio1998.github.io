@@ -18,10 +18,20 @@ permalink: /apps/
 
 Customized sales accounter and storeplace tool. 
 
+<hr>
+
+<div>
+Page-view inspired interface to display products categorized by brand. 
 <img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437"/>
-<img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 1" width="200" height="437"/>
+</div>
 
 <hr>
+
+<div>
+Adding a sold product to the sales tracker.  
+<img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 3" width="200" height="437"/>
+</div>
+
 
 
 
