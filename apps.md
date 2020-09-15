@@ -5,6 +5,7 @@ permalink: /apps/
 ---
 
 <h2 align="center">Sales Tracker</h2>
+<h4 align="center">iOS, Swift</h4>
 
 <p align="center">
 <a href="https://mikio1998.github.io/"> <!-- put app landing page here-->
