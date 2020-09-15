@@ -10,7 +10,6 @@ permalink: /apps/
 <p align="center">
 <!--<a href="https://mikio1998.github.io/"> --> <!-- put app landing page here-->
 <img src="{{ site.baseurl }}/images/nakatalogo.png" alt="Sales Logo" width="200" height="175"/>
-</a>
 </p>
 
 
@@ -28,7 +27,7 @@ Used FireStore to store product data and sales history of the store.
 Page-view inspired interface to display products categorized by brand. 
 </div>
 
-<hr>
+<br>
 
 <div align="center">
 <h3>How to record a sold item</h3>  
@@ -36,7 +35,6 @@ Page-view inspired interface to display products categorized by brand.
 <br>
 Add from the catalog
 </div>
-<br>
 <br>
 
 <div align="center">
