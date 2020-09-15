@@ -35,14 +35,14 @@ Page-view inspired interface to display products categorized by brand.
 <h3>How to record a sold item</h3>  
 <img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 3" width="200" height="437"/>
 <br>
-Adding a sold product to the sales tracker.
+Add from the catalog
 </div>
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/barcode.jpg" alt="Barcode" width="220" height="307" align="center"/>
 <img src="{{ site.baseurl }}/images/barcodedemo.jpg" alt="Barcode Demo" width="220" height="307" align="center"/>
 <br>
-Scans product barcode for quick add, or to simply check the price.
+Quick barcode scan
 </div>
 
 
