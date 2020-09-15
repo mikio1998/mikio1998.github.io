@@ -8,11 +8,7 @@ permalink: /apps/
 <h4 align="center">iOS, Swift</h4>
 
 
-<!--<p align="center">
-<a href="https://mikio1998.github.io/"> <!-- put app landing page here-->
-<img src="{{ site.baseurl }}/images/nakatalogo.png" alt="Sales Logo" width="200" height="175"/>
-</a>
-</p>-->
+
 
 
 <p align="center">
