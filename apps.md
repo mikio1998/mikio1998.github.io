@@ -14,7 +14,7 @@ permalink: /apps/
 </p>
 
 <p align="center">
-<a href="https://marcoc88.github.io/" class="button">View Details</a> <!-- and here -->
+<a href="https://mikio1998.github.io/" class="button">View Details</a> <!-- and here -->
 </p>
 
 Customized sales accounter and storeplace tool. 
