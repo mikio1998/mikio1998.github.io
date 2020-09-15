@@ -37,12 +37,14 @@ Page-view inspired interface to display products categorized by brand.
 <br>
 Add from the catalog
 </div>
+<br>
+<br>
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/barcode.jpg" alt="Barcode" width="220" height="307" align="center"/>
 <img src="{{ site.baseurl }}/images/barcodedemo.jpg" alt="Barcode Demo" width="220" height="307" align="center"/>
 <br>
-Quick barcode scan
+Or, quick barcode scan
 </div>
 
 
