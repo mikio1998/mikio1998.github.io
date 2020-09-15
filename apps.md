@@ -19,6 +19,7 @@ permalink: /apps/
 Customized sales accounter and storeplace tool. 
 
 <img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437"/>
+<img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 1" width="200" height="437"/>
 
 <hr>
 
