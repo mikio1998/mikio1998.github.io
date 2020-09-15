@@ -23,18 +23,18 @@ Used FireStore to store product data and sales history of the store.
 
 <hr>
 
-<div align="center">
-Page-view inspired interface to display products categorized by brand. 
+<div>
+<img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437" align="center"/>
 <br>
-<img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437"/>
+Page-view inspired interface to display products categorized by brand. 
 </div>
 
 <hr>
 
-<div align="center">
-Adding a sold product to the sales tracker.  
+<div>
+<img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 3" width="200" height="437" align="center"/>
 <br>
-<img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 3" width="200" height="437"/>
+Adding a sold product to the sales tracker.
 </div>
 
 
