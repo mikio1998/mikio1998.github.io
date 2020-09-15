@@ -38,8 +38,8 @@ Adding a sold product to the sales tracker.
 </div>
 
 <div>
-<img src="{{ site.baseurl }}/images/barcode.jpg" alt="Barcode" width="200" height="437" align="center"/>
-<img src="{{ site.baseurl }}/images/barcodedemo.jpg" alt="Barcode Demo" width="200" height="437" align="center"/>
+<img src="{{ site.baseurl }}/images/barcode.jpg" alt="Barcode" width="220" height="307" align="center"/>
+<img src="{{ site.baseurl }}/images/barcodedemo.jpg" alt="Barcode Demo" width="220" height="307" align="center"/>
 <br>
 Scans product barcode for quick add, or to simply check price.
 </div>
