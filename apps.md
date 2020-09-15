@@ -7,13 +7,14 @@ permalink: /apps/
 <h2 align="center">Sales Tracker</h2>
 <h4 align="center">iOS, Swift</h4>
 
-
-
-
-
 <p align="center">
-<a href="https://mikio1998.github.io/" class="button">View Details</a> <!-- and here -->
+<!--<a href="https://mikio1998.github.io/"> --> <!-- put app landing page here-->
+<img src="{{ site.baseurl }}/images/nakatalogo.png" alt="Sales Logo" width="200" height="175"/>
+</a>
 </p>
+
+
+
 
 Sales accounting and storeplace tool for a clothing store in Tokyo. Assists staff by recording and storing sales history and fetching product information from FireStore by scanning a barcode.
 Integrated AVFoundation library to identify products by reading the barcode.
