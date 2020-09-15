@@ -22,6 +22,7 @@ Customized sales accounter and storeplace tool.
 
 <div>
 Page-view inspired interface to display products categorized by brand. 
+<br>
 <img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437"/>
 </div>
 
@@ -29,6 +30,7 @@ Page-view inspired interface to display products categorized by brand.
 
 <div>
 Adding a sold product to the sales tracker.  
+<br>
 <img src="{{ site.baseurl }}/images/appdemo3.gif" alt="Appdemo 3" width="200" height="437"/>
 </div>
 
