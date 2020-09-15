@@ -17,6 +17,9 @@ permalink: /apps/
 </p>
 
 Customized sales accounter and storeplace tool. 
+Assists staff in a clothing store in Tokyo, by recording and storing sales history and fetching product information from FireStore by scanning a barcode.
+Integrated AVFoundation library to identify products by reading the barcode.
+Used FireStore to store product data and sales history of the store.
 
 <hr>
 
