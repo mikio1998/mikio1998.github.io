@@ -23,7 +23,7 @@ Used FireStore to store product data and sales history of the store.
 
 <hr>
 
-<div>
+<div align="center">
 <img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437" align="center"/>
 <br>
 Page-view inspired interface to display products categorized by brand. 
