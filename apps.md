@@ -16,7 +16,7 @@ permalink: /apps/
 <a href="https://mikio1998.github.io/" class="button">View Details</a> <!-- and here -->
 </p>
 
-sales accounting and storeplace tool for a clothing store in Tokyo. Assists staff by recording and storing sales history and fetching product information from FireStore by scanning a barcode.
+Sales accounting and storeplace tool for a clothing store in Tokyo. Assists staff by recording and storing sales history and fetching product information from FireStore by scanning a barcode.
 Integrated AVFoundation library to identify products by reading the barcode.
 Used FireStore to store product data and sales history of the store.
 
