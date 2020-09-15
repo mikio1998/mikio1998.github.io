@@ -4,7 +4,6 @@ title: Apps
 permalink: /apps/
 ---
 
-
 <h2 align="center">Sales Tracker</h2>
 
 <p align="center">
