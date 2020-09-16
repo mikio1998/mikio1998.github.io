@@ -10,7 +10,8 @@ When I am not at school, I am following my passion for technology by developing 
 
 My recent project is an accounting/inventory tool that I developed for a clothing store I work at as a regular employee. [Please find my projects here.](https://mikio1998.github.io/apps/)
 
-[Download Resume (PDF)](https://raw.githubusercontent.com/mikio1998/mikio1998.github.io/master/images/[20:9:16]Mikio_Nakata_Resume.pdf)
+<h2>My Resume</h2>
+[Download (PDF)](https://raw.githubusercontent.com/mikio1998/mikio1998.github.io/master/images/[20:9:16]Mikio_Nakata_Resume.pdf)
 
 ### Skills
 
