@@ -18,7 +18,7 @@ For overall faster retention, your brain should be fed the term you got wrong mu
 in the initial stages of studying. If you struggle with a term, perhaps you could put insert it a few cards behind. This mechanism is what I wanted to 
 turn into a new app.
 
-<h3>Mechanism</h3>
+<h3>Mechanism, algorithm</h3>
 I want to mimic a users retention progress and use it to make the flashcards challenging accordingly to their level of progress.
 For this purpose, I wrote an algorithm. 
 
