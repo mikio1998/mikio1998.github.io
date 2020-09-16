@@ -29,7 +29,7 @@ Additionally, the retention level of a card will determine how far back the card
 The higher a card's level, the further back it will be placed in the stack, thus challenging the user based on their state of retetion. 
 
 <h5>Ebbinghaus Curve</h5>
-As I was interested in the Ebbinghaus [study](https://www.semanticscholar.org/paper/The-Forgetting-Curve-and-Learning-Algorithms-Hanks-Zhan/3eda1f89d845a893cd4c8848b41697d39af19195#paper-header), I thought about its applicability within a smaller spectrum of time than in the theory, 
+I was interested in the Ebbinghaus [study](https://www.semanticscholar.org/paper/The-Forgetting-Curve-and-Learning-Algorithms-Hanks-Zhan/3eda1f89d845a893cd4c8848b41697d39af19195#paper-header), I thought about its applicability within a smaller span of time than in the theory, 
 such as within the time of a flashcard study session.
 
 
