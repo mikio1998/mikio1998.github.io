@@ -3,6 +3,8 @@ layout: post
 title: How a learning app should work 
 ---
 
+<img src="{{ site.baseurl }}/images/How_a_learning_app_should_work_img1.png" alt="Img1" width="400" height="48" align="center"/>
+
 <h3>The Reason</h3>
 For someone who wants good grades but doesn't want to spend too much time studying, I wanted a solution that could speed things up. I used flashcards, but I 
 had ideas for improvement.
