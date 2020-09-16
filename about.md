@@ -8,7 +8,8 @@ My name is Mikio Nakata, a third year university student in Tokyo studying econo
 
 When I am not at school, I am following my passion for technology by developing native iOS apps. I also like [coding challenges](https://leetcode.com/problemset/all/) and blockchain. Otherwise, I like traveling the road on my bicycle.  
 
-My recent project is an accounting/inventory tool that I developed for a clothing store I work at as a regular employee. [Please find my projects here.](https://mikio1998.github.io/apps/)
+My recent project is an accounting/inventory tool that I developed for a clothing store I work at as a regular employee. 
+<br>[Please find my projects here.](https://mikio1998.github.io/apps/)
 
 ### Skills
 
