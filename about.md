@@ -3,8 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<h2>My Resume</h2>
-[Download (PDF)](https://raw.githubusercontent.com/mikio1998/mikio1998.github.io/master/images/[20:9:16]Mikio_Nakata_Resume.pdf)
 
 My name is Mikio Nakata, a third year university student in Tokyo studying economics and an aspiring Software developer. 
 
@@ -19,6 +17,9 @@ My recent project is an accounting/inventory tool that I developed for a clothin
 * Objective-C
 * Javascript
 * HTML/CSS
+
+<h2>My Resume</h2>
+[Download (PDF)](https://raw.githubusercontent.com/mikio1998/mikio1998.github.io/master/images/[20:9:16]Mikio_Nakata_Resume.pdf)
 
 ### Contact me
 
