@@ -14,7 +14,12 @@ app with better coding and architectural principles. First, I plan to rework the
 
 
 Something new is that I am exploring the possibility of printing my own barcodes/qrcodes to stick to the products. Without considering my concern about the 
-amount of hands-on labor this might take, I think it would make cash-registers much quicker and easier than before. 
+amount of hands-on labor this might take, I think it would make cash-registers much quicker and easier than before. Another big reason for this is that I discovered a sizable amount of errors some manufacturers made when labeling the correct codes on products, so using the codes they left on the products can't be an option.
+
+<div align="center">
+<img src="{{ site.baseurl }}/images/hkbarcode.png" alt="HTtag" width="350" height="152"/>
+<h5>Above: Tags could often be wrongly labeled</h5>
+</div>
 
 <h2>Drafting the new Database (json/firebase format)</h2>
 
@@ -32,6 +37,18 @@ I favor having sizes and colors in arrays. This would also work with a qr/bar co
 The codes would probablylook like this:
 
 18800-hou-ma1-od-s
+
+<div align="Left">
+<img src="{{ site.baseurl }}/images/sample_barcode.png" alt="Barcode" width="300" height="82"/>
+</div>
+<div align="Right">
+<img src="{{ site.baseurl }}/images/sample_qrcode.png" alt="QRcode" width="350" height="350"/>
+</div>
+
+<div align="Center">
+<h5>Above: And the barcode or QRcode would look like this</h5>
+</div>
+
 
 The structure here is price-brand-product-colorway-size. I plan on using dictionaries to deal with shortened abbreviations for brand names. 
 
