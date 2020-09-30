@@ -9,7 +9,7 @@ app with better coding and architectural principles. First, I plan to rework the
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/Old_firestore.png" alt="OldFirestore" width="600" height="408"/>
-<h5>My old database is a long list to get through</h5>
+<h5>Above: My old database is a long list to get through</h5>
 </div>
 
 
