@@ -42,7 +42,7 @@ The codes would probablylook like this:
 <img src="{{ site.baseurl }}/images/sample_barcode.png" alt="Barcode" width="300" height="82"/>
 </div>
 <div align="Center">
-<img src="{{ site.baseurl }}/images/sample_qrcode.png" alt="QRcode" width="120" height="120"/>
+<img src="{{ site.baseurl }}/images/sample_qrcode.png" alt="Qrcode" width="120" height="120"/>
 </div>
 
 <div align="Center">
