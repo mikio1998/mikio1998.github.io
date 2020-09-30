@@ -8,7 +8,7 @@ app with better coding and architectural principles. First, I plan to rework the
 
 
 <div align="center">
-<img src="{{ site.baseurl }}/images/Old_firestore.png" alt="OldFirestore" width="400" height="48"/>
+<img src="{{ site.baseurl }}/images/Old_firestore.png" alt="OldFirestore" width="600" height="408"/>
 <h4>My old database is a long list</h4>
 </div>
 
