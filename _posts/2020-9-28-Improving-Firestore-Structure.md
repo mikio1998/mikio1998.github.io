@@ -52,5 +52,7 @@ The codes would probablylook like this:
 
 The structure here is price-brand-product-colorway-size. I plan on using dictionaries to deal with shortened abbreviations for brand names. 
 
-Making the orginal database took about 3-4 days of work of planning, data collection, 
-and data entry (so many documents I had to write a script that writes data entries). I'm relieved that half of it is already done.
+Blog conclusion:
+I'm excited to start re-working my data because it will be cleaner and will perform better.
+Making the orginal database took about 3 days of work of planning, data collection, 
+and data entry (so much data to fill, I ended up write a script that writes data entries) so I'm relieved that half of it is already done.
