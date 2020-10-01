@@ -32,7 +32,9 @@ The higher a card's level, the further back it will be placed in the stack, thus
 
 
 <h5>Ebbinghaus Curve</h5>
-I was interested in the Ebbinghaus [study](https://www.semanticscholar.org/paper/The-Forgetting-Curve-and-Learning-Algorithms-Hanks-Zhan/3eda1f89d845a893cd4c8848b41697d39af19195#paper-header), I thought about its applicability within a smaller span of time than in the theory, 
-such as within the time of a flashcard study session.
+I saw a infographic poster on a wall about retention over time [(study)](https://en.wikipedia.org/wiki/Forgetting_curve), I thought about applying within a 
+smaller span of time than in the theory, like the interval between flipping cards.
+
+
 
 
