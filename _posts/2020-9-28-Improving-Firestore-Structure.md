@@ -27,10 +27,11 @@ My original firebase would have one collection containing every existing product
 brands. After some consideration, I am ultimately planning to proceed with this structure:
 
 - Brand:  Houston
-    - Name:   MA1
-        - Price:      18800
-        - Color:     [OD, Black, Navy]
-        - Size:       [S, M, L, XL]
+    - Category:   Jacket
+        - Name:   MA1 
+            - Price:      18800
+            - Color:     [OD, Black, Navy]
+            - Size:       [S, M, L, XL]
 
 I favor having sizes and colors in arrays. This would also work with a qr/bar code schema because I plan on making my own, which gives me a lot of freedom 
 (because I don't have to make a document for every size-color variant, which eliminates a huge amount of necessary space). 
