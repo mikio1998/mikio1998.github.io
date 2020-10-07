@@ -11,13 +11,70 @@ Xib files for cells.
 MVP structure for this project.
 Constants are kept much safer and organized.
 
+<div align="center">
+<img src="{{ site.baseurl }}/images/10_5_2020/collection_view.png" alt="OldFirestore" width="300" height="208"/>
+<h5>Above: My old database is a long list to get through</h5>
+</div>
 (Picture of collection view) .
 
 <h5>Cells</h5>
 Each cell has a product name and image. 
+
+<div align="center">
+<img src="{{ site.baseurl }}/images/10_5_2020/collection_cell.png" alt="OldFirestore" width="300" height="208"/>
+<h5>Above: My old database is a long list to get through</h5>
+</div>
+
 (Pic of xib) .
 ```swift
-// xib code
+class ProductCell: UICollectionViewCell {
+
+    @IBOutlet weak var stackView: UIStackView!
+    
+    @IBOutlet weak var image: UIImageView!
+    @IBOutlet weak var label: UILabel!
+    
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+        
+        //MARK:Center StackView X and Y
+        self.addConstraint(NSLayoutConstraint(
+            item: self.stackView!,
+            attribute: NSLayoutConstraint.Attribute.centerX,
+            relatedBy: NSLayoutConstraint.Relation.equal,
+            toItem: self,
+            attribute: NSLayoutConstraint.Attribute.centerX,
+            multiplier: 1, constant: 0))
+        
+        self.addConstraint(NSLayoutConstraint(
+            item: self.stackView!,
+            attribute: NSLayoutConstraint.Attribute.centerY,
+            relatedBy: NSLayoutConstraint.Relation.equal,
+            toItem: self,
+            attribute: NSLayoutConstraint.Attribute.centerY,
+            multiplier: 1, constant: 0))
+        
+
+        //MARK:Set Stackview Height&Width
+        self.addConstraint(NSLayoutConstraint(
+            item: self.stackView!,
+            attribute: NSLayoutConstraint.Attribute.width,
+            relatedBy: NSLayoutConstraint.Relation.equal,
+            toItem: nil,
+            attribute: NSLayoutConstraint.Attribute.notAnAttribute,
+            multiplier: 1, constant: K.ObjectSizes.ProductsPage.CollectionCell.cellWidth))
+        
+        self.addConstraint(NSLayoutConstraint(
+            item: self.stackView!,
+            attribute: NSLayoutConstraint.Attribute.height,
+            relatedBy: NSLayoutConstraint.Relation.equal,
+            toItem: nil,
+            attribute: NSLayoutConstraint.Attribute.notAnAttribute,
+            multiplier: 1, constant: K.ObjectSizes.ProductsPage.CollectionCell.cellHeight))
+    }
+}
+
 ```
 
 <h5>Collection</h5>
