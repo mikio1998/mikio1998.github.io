@@ -13,19 +13,15 @@ Constants are kept much safer and organized.
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/10_5_2020/collection_view.png" alt="OldFirestore" width="300" height="208"/>
-<h5>Above: My old database is a long list to get through</h5>
 </div>
-(Picture of collection view) .
 
 <h5>Cells</h5>
 Each cell has a product name and image. 
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/10_5_2020/collection_cell.png" alt="OldFirestore" width="300" height="208"/>
-<h5>Above: My old database is a long list to get through</h5>
 </div>
 
-(Pic of xib) .
 ```swift
 class ProductCell: UICollectionViewCell {
 
