@@ -12,7 +12,7 @@ MVP structure for this project.
 Constants are kept much safer and organized.
 
 <div align="center">
-<img src="{{ site.baseurl }}/images/10_5_2020/collection_view.png" alt="collection view" width="250" height="438"/>
+<img src="{{ site.baseurl }}/images/10_5_2020/collection_view.png" alt="collection view" width="250" height="538"/>
 </div>
 
 <h5>Cells</h5>
