@@ -57,7 +57,60 @@ class ProductCell: UICollectionViewCell {
 <h5>Collection</h5>
 The collection will have 2 cells per row, with a brand title at the top. 
 ```swift
-// view code
+class ProductsViewController: UIViewController {
+    
+    // MARK: BRAND LABEL
+    @IBOutlet weak var brandLabel: UILabel!
+    // MARK: COLLECTION VIEW
+    @IBOutlet weak var collectionView: UICollectionView!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        collectionView.delegate = self
+        collectionView.dataSource = self
+        
+        //Register nib
+        collectionView.register(UINib(nibName: K.CellNames.ProductCell.nibName, bundle: nil), forCellWithReuseIdentifier: K.CellNames.ProductCell.identifier)
+    }
+}
+
+
+extension ProductsViewController: UICollectionViewDataSource, UICollectionViewDelegate {
+
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 29
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: K.CellNames.ProductCell.identifier, for: indexPath) as! ProductCell
+        cell.label.text = "Big Red Apple"
+        return cell
+    }
+}
+
+extension ProductsViewController: UICollectionViewDelegateFlowLayout {
+
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
+        let cellWidth = K.ObjectSizes.ProductsPage.CollectionCell.cellWidth
+        let cellHeight = K.ObjectSizes.ProductsPage.CollectionCell.cellHeight
+        return CGSize(width: cellWidth, height: cellHeight)
+    }
+    
+    
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumLineSpacingForSectionAt section: Int) -> CGFloat {
+        
+        return CGFloat(K.ObjectSizes.ProductsPage.StackView.minimumLineSpacing)
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Int) -> CGFloat {
+        return CGFloat(K.ObjectSizes.ProductsPage.StackView.minimumInteritemSpacing)
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, insetForSectionAt section: Int) -> UIEdgeInsets {
+        return UIEdgeInsets.zero
+    }
+    
+}
 ```
 
 <h5>Constants</h5>
