@@ -19,7 +19,7 @@ Constants are kept much safer and organized.
 Each cell has a product name and image. 
 
 <div align="center">
-<img src="{{ site.baseurl }}/images/10_5_2020/collection_cell.png" alt="collection cell" width="300" height="208"/>
+<img src="{{ site.baseurl }}/images/10_5_2020/collection_cell.png" alt="collection cell" width="350" height="208"/>
 </div>
 
 ```swift
