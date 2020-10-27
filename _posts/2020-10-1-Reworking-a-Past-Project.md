@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Rework Day One
+title: Reworking a Past Project 
 ---
 
 
