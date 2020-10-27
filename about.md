@@ -8,7 +8,7 @@ My name is Mikio Nakata, a third year university student in Tokyo studying econo
 
 I enjoy developing iOS apps, and doing outdoor things such as riding my bicycle.
 
-My recent project is a simple accounting/inventory tool that I developed for a clothing store I work at as a regular employee. 
+My recent project is a simple accounting/inventory tool that I developed for a clothing store I work at. 
 <br>[Please find my projects here.](https://mikio1998.github.io/apps/)
 
 ### Skills
