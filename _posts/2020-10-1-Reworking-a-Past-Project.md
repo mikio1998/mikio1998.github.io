@@ -56,7 +56,9 @@ class ProductCell: UICollectionViewCell {
 ```
 
 <h5>Collection</h5>
-The collection will have 2 cells per row, with a brand title at the top. 
+
+The collection will have 2 cells per row, with a brand title at the top. <br>
+
 ```swift
 class ProductsViewController: UIViewController {
     
