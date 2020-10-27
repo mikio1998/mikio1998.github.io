@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How a learning app should work 
+title: Making Better Flashcards (an app)  
 ---
 
 <div align="center">
