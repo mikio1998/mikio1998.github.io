@@ -3,20 +3,22 @@ layout: post
 title: Reworking a Past Project 
 ---
 
-
 On the first day, I decided to start on the collection view that will be the products navigator/manual. I will use xib to design the cells I will use in my project. I also keep my project organized using better constants.
 
-<h3>What I’m doing differently:</h3>
-Xib files for cells.
-MVP structure for this project.
-Constants are kept much safer and organized.
+<h3>What I’m doing differently, day 1:</h3>
+
+<ol>
+  <li>Using Xib files for cells.</li>
+  <li>Using MVC for project structure.</li>
+  <li>The above also helps keeps constants much safer and organized.</li>
+</ol> 
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/10_5_2020/collection_view.png" alt="collection view" width="250" height="538"/>
 </div>
 
 <h5>Cells</h5>
-Each cell has a product name and image. 
+Each cell and it's product name and image. 
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/10_5_2020/collection_cell.png" alt="collection cell" width="350" height="208"/>
@@ -34,7 +36,6 @@ class ProductCell: UICollectionViewCell {
         super.awakeFromNib()
      
         //MARK:Set Stackview Height&Width
-        // Use const constraints.
         self.addConstraint(NSLayoutConstraint(
             item: self.stackView!,
             attribute: NSLayoutConstraint.Attribute.width,
