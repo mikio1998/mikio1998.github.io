@@ -11,9 +11,9 @@ Originally in iOS, it's possible to make an actual launch screen for your app wh
 
 The dummy launch screen I made is a simple View Controller that looks visually identical to my actual launch screen, and it acts as if it is the same. 
 However, the important purpose of it is to perform networking tasks and instantiate the real initial View Controller when networking finishes. 
-Here is the flow: <br>
+<br>
 
-After my real launch screen should finish, the app will initialize on my dummy launch screen, which will then initialize the actual destination and send the networked data.
+It flows like this... After my real launch screen should finish, the app will initialize on my dummy launch screen, which will then initialize the actual destination and send the networked data.
 
 <h3>The flow</h3>
 
