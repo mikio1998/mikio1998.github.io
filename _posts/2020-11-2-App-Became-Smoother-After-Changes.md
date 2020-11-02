@@ -31,6 +31,10 @@ In this version, I fetched the data during the launch screen. Here is a look at 
   <source src="/assets/images/11_2_2020/Collection_Recording_1.mp4" type="video/webm">
 </video>
 
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://mikio1998.github.io/images/11_2_2020/Collection_Recording_1.mp4">
+</video>
+
 
 <video muted autoplay controls>
     <source src="{{ mikio1998.github.io/images/11_2_2020 }}/Collection_Recording_1.mp4" type="video/mp4">
