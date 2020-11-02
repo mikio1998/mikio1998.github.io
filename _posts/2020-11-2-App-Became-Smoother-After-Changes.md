@@ -26,6 +26,11 @@ In this version, I fetched the data during the launch screen. Here is a look at 
   Your browser does not support HTML video.
 </video>
 
+<video autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/assets/images/11_2_2020/Collection_Recording_1.mp4" type="video/mp4">
+  <source src="/assets/images/11_2_2020/Collection_Recording_1.mp4" type="video/webm">
+</video>
+
 (new app video)
 
 
