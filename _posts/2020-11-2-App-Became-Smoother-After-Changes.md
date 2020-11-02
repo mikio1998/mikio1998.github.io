@@ -6,6 +6,7 @@ title: App Became Smoother After Changes
 Currently, I've finished my rework up to the point the app is ready to smoothly take some data. Designing and coding took about 4-5 work days.
 
 <h3>Notes:</h3>
+
 <ol>
   <li>Significant reduction of coding.</li>
   <li>Pre-networking data is beneficial.</li>
@@ -29,7 +30,6 @@ In this version, I fetched the data during the launch screen. Here is a look at 
 <video width="320" height="240" controls>
   <source type="video/mp4" src="https://mikio1998.github.io/images/11_2_2020//Collection_Recording_2.mp4">
 </video>
-
 
 3. Setting constraints is confusing
 I spent a lot of time struggling with constraints, so I'll study it in the future.
