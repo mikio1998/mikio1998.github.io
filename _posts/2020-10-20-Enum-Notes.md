@@ -67,8 +67,8 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 Here enums are applied. <b>It eliminates errors caused by typos because the new WeatherCondition type is required as an input.</b>
 Also, notice the .rain instead of WeatherCondition.rain. Swift's type inference allows this, it's inferred I want to compare to WeatherCondition type. 
 
+<h3>Switch case, and enum</h3>
 
-<n3>Switch case, and enum</n3>
 Switch blocks and enums work together very effectively. You can use enum to make sure a Switch block does not leave out any potential cases.
 See how switch and enum make the code much more effective:
 
@@ -94,7 +94,7 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 }
 ```
 
-<n4>Switch case, and enum: Extra features</n4>
+<h4>Switch case, and enum: case values</h4>
 An enum case can have a value property, that you can define.
 
 Example:
