@@ -130,8 +130,9 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 As you can see in the code, we can now test some conditions a bit more further thanks to .snow carrying the depth value.
 In the switch statement, .snow now appears in two cases. Which case bound to be called depends on the value.
 
+
 <h4>Syntax of the example.<h4>
-<br>
+
 ```swift
 // Use "let" to get a hold of the value inside the enum.
 // Then, use "where" to check condition
