@@ -30,7 +30,7 @@ Some issues:
       Input errors are realistic such as "sunn". Directly using Strings like this may be risky... 
 </ul>
 
-
+<n4>Use an enum</n4>
 ```swift
 // Example #2
 // Now, group weathers as a new data type using enum
@@ -63,11 +63,11 @@ func howsTheWeather(weather: WeatherCondition) -> String {
     }
 }
 ```
-Here enums are applied. It eliminates errors caused by typos because the new WeatherCondition type is required as an input.
+Here enums are applied. <b>It eliminates errors caused by typos because the new WeatherCondition type is required as an input.</b>
 Also, .rain instead of WeatherCondition.rain. Swift's type inference allows this, it's inferred I want to compare to WeatherCondition type. 
 
 
-<n4>Switch case, and enum</n4>
+<n3>Switch case, and enum</n3>
 Switch blocks and enums work together very effectively. You can use enum to make sure a Switch block does not leave out any potential cases.
 See how switch and enum make the code much more effective:
 
