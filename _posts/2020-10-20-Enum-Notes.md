@@ -42,7 +42,7 @@ enum WeatherCondition {
 
 func howsTheWeather(weather: WeatherCondition) -> String {
     if weather == WeatherCondition.sun || WeatherCondition.cloud || WeatherCondition.snow || WeatherCondition.wind {
-        return nil
+        return "Great"
     } else {
         return "Gloomy"
     }
@@ -60,7 +60,7 @@ func howsTheWeather(weather: WeatherCondition) -> String {
     if weather == .rain {
         return "Gloomy"
     } else {
-        return nil
+        return "Great"
     }
 }
 ```
