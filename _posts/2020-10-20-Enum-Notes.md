@@ -65,7 +65,7 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 }
 ```
 Here enums are applied. <b>It eliminates errors caused by typos because the new WeatherCondition type is required as an input.</b>
-Also, .rain instead of WeatherCondition.rain. Swift's type inference allows this, it's inferred I want to compare to WeatherCondition type. 
+Also, notice the .rain instead of WeatherCondition.rain. Swift's type inference allows this, it's inferred I want to compare to WeatherCondition type. 
 
 
 <n3>Switch case, and enum</n3>
