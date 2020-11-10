@@ -3,6 +3,7 @@ layout: post
 title: Enum  
 ---
 
+Unfinished
 
 Code #1
 ```swift
