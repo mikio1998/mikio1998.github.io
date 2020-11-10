@@ -13,9 +13,9 @@ Here, I have a function that gives different opinions for weather.
 // Example #1
 // Sample code without using enum
 
-func gloomyWeather(weather: String) -> String {
+func howsTheWeather(weather: String) -> String {
     if weather == "sun" {
-        return "Not bad"
+        return "Great"
     } else {
         return "Gloomy"
     }
@@ -39,7 +39,7 @@ enum WeatherCondition {
     case sun, rain, cloud, snow, wind 
 }
 
-func gloomyWeather(weather: WeatherCondition) -> String {
+func howsTheWeather(weather: WeatherCondition) -> String {
     if weather == WeatherCondition.sun || WeatherCondition.cloud || WeatherCondition.snow || WeatherCondition.wind {
         return nil
     } else {
@@ -55,7 +55,7 @@ enum WeatherCondition {
     case sun, rain, cloud, snow, wind 
 }
 
-func gloomyWeather(weather: WeatherCondition) -> String {
+func howsTheWeather(weather: WeatherCondition) -> String {
     if weather == .rain {
         return "Gloomy"
     } else {
@@ -80,7 +80,7 @@ enum WeatherCondition {
     case wind
 }
 
-func gloomyWeather(weather: WeatherCondition) -> String {
+func howsTheWeather(weather: WeatherCondition) -> String {
 
     switch weather {
     case .sun:
@@ -107,7 +107,7 @@ enum WeatherCondition {
     case wind
 }
 
-func gloomyWeather(weather: WeatherCondition) -> String {
+func howsTheWeather(weather: WeatherCondition) -> String {
     switch weather {
     
     case .sun:
