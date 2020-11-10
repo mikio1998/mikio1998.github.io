@@ -31,6 +31,7 @@ Some issues:
 </ul>
 
 <h3>Use an enum!</h3>
+
 ```swift
 // Example #2
 // Now, group weathers as a new data type using enum
