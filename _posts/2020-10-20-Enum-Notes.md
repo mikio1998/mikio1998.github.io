@@ -30,7 +30,7 @@ Some issues:
       Input errors are realistic such as "sunn". Directly using Strings like this may be risky... 
 </ul>
 
-<n4>Use an enum</n4>
+<h4>Use an enum</h4>
 ```swift
 // Example #2
 // Now, group weathers as a new data type using enum
