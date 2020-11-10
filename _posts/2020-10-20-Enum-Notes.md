@@ -72,7 +72,7 @@ Also, notice the .rain instead of WeatherCondition.rain. Swift's type inference 
 Switch blocks and enums work together very effectively. You can use enum to make sure a Switch block does not leave out any potential cases.
 See how switch and enum make the code much more effective:
 
-```switch
+```swift
 enum WeatherCondition {
     case sun
     case rain
@@ -98,7 +98,7 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 An enum case can have a value property, that you can define.
 
 Example:
-```switch
+```swift
 // Gave snow a depth property.
 enum WeatherCondition {
     case sun
