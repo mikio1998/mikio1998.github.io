@@ -97,7 +97,9 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 <h4>Switch case, and enum: case values</h4>
 An enum case can have a value property, that you can define.
 
-Example:
+Lets give case .snow a depth property, to specify the amount of snowfall. We consider that our opinion changes at 10 inches of snow, where any less value will still be "Chilly but not gloomy," but any greater value will be given a new case of "Drive safe!". 
+
+
 ```swift
 // Gave snow a depth property.
 enum WeatherCondition {
@@ -125,8 +127,7 @@ func howsTheWeather(weather: WeatherCondition) -> String {
     }
 }
 ```
-The snow enum was given a depth property, to specify the amount of snowfall. Because .snow now carries this property, we can now test some conditions a bit more further. We consider that our opinion changes at 10 inches of snow, where any less value will still be "Chilly but not gloomy," but any greater value will be given a new case of "Drive safe!". 
-
+As you can see in the code, we can now test some conditions a bit more further thanks to .snow carrying the depth value.
 In the switch statement, .snow now appears in two cases. Which case bound to be called depends on the value.
 
 <h4>Syntax of the example.<h4>
