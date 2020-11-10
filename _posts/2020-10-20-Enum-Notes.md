@@ -131,7 +131,7 @@ As you can see in the code, we can now test some conditions a bit more further t
 In the switch statement, .snow now appears in two cases. Which case bound to be called depends on the value.
 
 <h4>Syntax of the example.<h4>
-
+    
 ```swift
 // Use "let" to get a hold of the value inside the enum.
 // Then, use "where" to check condition
