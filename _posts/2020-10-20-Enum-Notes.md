@@ -127,9 +127,9 @@ func howsTheWeather(weather: WeatherCondition) -> String {
 ```
 The snow enum was given a depth property, to specify the amount of snowfall. Because .snow now carries this property, we can now test some conditions a bit more further. We consider that our opinion changes at 10 inches of snow, where any less value will still be "Chilly but not gloomy," but any greater value will be given a new case of "Drive safe!". 
 
-In the switch statement, .snow now appears in two cases. Which case bound to b
+In the switch statement, .snow now appears in two cases. Which case bound to be called depends on the value.
 
-syntax of the example.
+<h4>Syntax of the example.<h4>
 ```swift
 // Use "let" to get a hold of the value inside the enum.
 // Then, use "where" to check condition
