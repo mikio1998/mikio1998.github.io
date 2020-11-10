@@ -136,7 +136,6 @@ In the switch statement, .snow now appears in two cases. Which case bound to be 
 ```swift
 // Use "let" to get a hold of the value inside the enum.
 // Then, use "where" to check condition
-
 case .cloud, .wind, .snow(let depth) where depth < 10:
 ```
 
