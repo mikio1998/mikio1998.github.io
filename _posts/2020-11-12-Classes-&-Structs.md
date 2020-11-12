@@ -4,7 +4,6 @@ title: Classes & Structs
 ---
 
 <h2>Distinguishing Between Classes and Structs</h2>
-Classes and Structs have many similarities. 
 
 However similar Classes and Structs are, they have slight but important differences.
 It's important to know the difference to understand which to use.  
