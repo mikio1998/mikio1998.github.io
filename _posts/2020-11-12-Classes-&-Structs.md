@@ -6,13 +6,8 @@ title: Classes & Structs
 <h2>Distinguishing Between Classes and Structs</h2>
 Classes and Structs have many similarities. 
 
-However similar Classes and Structs are, they both exist for important reasons.
-It's important to know the difference because:
-<ul>
-<li> this </li>
-<li> this </li>
-</ul>
-
+However similar Classes and Structs are, they have slight but important differences.
+It's important to know the difference to understand which to use.  
 
 <h3>Commonalities of Class and Struct</h3>
 <ul> 
@@ -54,6 +49,8 @@ Your boss uses the same software, and keeps track of the changes you record. The
 If you copy a class, you'll have two references to one instance of the data. 
 If you copy a struct, you'll have two instances, each with unique copies of the data.
 
+<h2>When to use which?</h3>
+Generally, structs should be used over classes by default, unless you need the additional capabilties (mentioned earlier) the class provides.
 
-
-
+<h3>Reading:</h3>
+https://learnappmaking.com/struct-vs-class-swift-how-to/#:~:text=In%20Swift%2C%20structs%20are%20value,choice%20between%20classes%20or%20structs.
