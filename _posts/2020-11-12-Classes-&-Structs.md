@@ -11,8 +11,8 @@ It's important to know the difference to understand which to use.
 <h3>Commonalities of Class and Struct</h3>
 <ul> 
 <li> They can define properties to store values, and they can define functions. </li>
-<li> They can define initializers to set their initial state. <code">init()</code> </li>
-<li> They can be extended, with <code">extension</code> </li>
+<li> They can define initializers to set their initial state. <code>init()</code> </li>
+<li> They can be extended, with <code>extension</code> </li>
 <li> They can conform to protocols. </li>
 </ul>
 
