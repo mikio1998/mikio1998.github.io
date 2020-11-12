@@ -32,7 +32,7 @@ It's important to know the difference because:
 <h2>Reference types and value types</h2>
 
 
-<h3>Value type:<h3>
+<h3>Value type:</h3>
 When a value type is copied (ie, if it gets assigned, initialized, or passed into a function), each instance holds a unique copy of the data.
 Meaning, even if one instance of the data is changed, it does not affect any other existing instance.
 
@@ -40,8 +40,7 @@ Meaning, even if one instance of the data is changed, it does not affect any oth
 When a reference type is copied, each instance shares the data. 
 Meaning, if one instance of the data is changed, the change will be inflicted on all other instances.
 
-<p><b>Value or Reference</b> - Example explaination:<h2><p>
-
+<h2><b>Value or Reference</b> - Example explaination:</h2>
 Imagine you are a shop clerk, and you must report to your boss what you sell every day....
 
 <h3>Value Type senario:</h3>
