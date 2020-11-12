@@ -8,19 +8,19 @@ Classes and Structs have many similarities.
 
 However similar Classes and Structs are, they both exist for important reasons.
 It's important to know the difference because:
-<ol>
-<li> this
-<li> this
-</ol>
+<ul>
+<li> this </li>
+<li> this </li>
+</ul>
 
 
 <h3>Commonalities of Class and Struct</h3>
-<ol> 
-<li> They can define properties to store values, and they can define functions.
-<li> They can define initializers to set their initial state. <code">init()</code>
-<li> They can be extended, with <code">extension</code>
-<li> They can conform to protocols.
-</ol>
+<ul> 
+<li> They can define properties to store values, and they can define functions. </li>
+<li> They can define initializers to set their initial state. <code">init()</code> </li>
+<li> They can be extended, with <code">extension</code> </li>
+<li> They can conform to protocols. </li>
+</ul>
 
 <h3>Class has these additional features:</h3>
 <ol> 
@@ -29,8 +29,8 @@ It's important to know the difference because:
 <li> Classes are reference types, while Structs are value types.
 </ol>
 
-<h2>Reference types and value types</h2>
 
+<h2>Reference types and value types</h2>
 
 <h3>Value type:</h3>
 When a value type is copied (ie, if it gets assigned, initialized, or passed into a function), each instance holds a unique copy of the data.
@@ -40,7 +40,7 @@ Meaning, even if one instance of the data is changed, it does not affect any oth
 When a reference type is copied, each instance shares the data. 
 Meaning, if one instance of the data is changed, the change will be inflicted on all other instances.
 
-<h2><b>Value or Reference</b> - Example explaination:</h2>
+<h2><b>Value or Reference</b> - Examples:</h2>
 Imagine you are a shop clerk, and you must report to your boss what you sell every day....
 
 <h3>Value Type senario:</h3>
