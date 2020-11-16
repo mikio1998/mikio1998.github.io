@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classes & Structs (Swift)
+title: Classes & Structs: Swift
 ---
 
 <h2>Distinguishing Between Classes and Structs</h2>
