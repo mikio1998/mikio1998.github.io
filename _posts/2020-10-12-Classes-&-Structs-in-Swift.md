@@ -3,10 +3,7 @@ layout: post
 title: Classes & Structs in Swift
 ---
 
-<h2>Distinguishing Between Classes and Structs</h2>
-
-However similar Classes and Structs are, they have slight but important differences.
-It's important to know the difference to understand which to use.  
+It's important to distinguish the difference between Classes and Structs.
 
 <h3>Commonalities of Class and Struct</h3>
 <ul> 
