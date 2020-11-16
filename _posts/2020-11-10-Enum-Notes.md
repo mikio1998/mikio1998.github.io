@@ -2,7 +2,6 @@
 layout: post
 title: Enum Notes  
 ---
-<h3>Enums</h3>
 Enums in Swift are used to create your own type of value. They can be incredibly useful when used with switch statements. 
 
 Here is a situation, where there is a function that gives different opinions for weather.
