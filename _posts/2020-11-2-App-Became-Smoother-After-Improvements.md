@@ -1,9 +1,9 @@
 ---
 layout: post
-title: App Became Smoother After Changes
+title: App Became Smoother After Improvements
 ---
 
-Currently, I've finished my rework up to the point the app is ready to smoothly take some data. Designing and coding took about 4-5 work days.
+Currently, I've finished my rework up to the point the app is ready to smoothly take some data. 
 
 <h3>Notes:</h3>
 
