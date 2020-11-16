@@ -3,8 +3,8 @@ layout: post
 title: Swift Closure Usage 
 ---
 
-<h2>What's a Closure?</h2>
-
+What's a Closure?
+<br>
 A closure is a function packaged in a block, which can then be passed around such as be assigned to a variable.
 
 ```swift
