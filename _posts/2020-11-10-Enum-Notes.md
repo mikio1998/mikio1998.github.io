@@ -5,9 +5,7 @@ title: Enum Notes
 <h3>Enums</h3>
 Enums in Swift are used to create your own type of value. They can be incredibly useful when used with switch statements. 
 
-I simply explain the benefits of using enums when dealing with conditions.
-Here, I have a function that gives different opinions for weather.
-
+Here is a situation, where there is a function that gives different opinions for weather.
 
 ```swift
 // Example #1
@@ -24,11 +22,11 @@ func howsTheWeather(weather: String) -> String {
 
 Some issues:
 <ul>
-  <li> It's not just sunny weather.
-      Cloudy, wind, or snow are also weather conditions. 
-  <li> Erroneous typos or capital letters.
-      Input errors are realistic such as "sunn". Directly using Strings like this may be risky... 
-</ul>
+  <li> It's not just sunny weather. </li>
+      Cloudy, wind, or snow are also weather conditions. </li>
+  <li> Erroneous typos or capital letters. </li>
+      Input errors are realistic such as "sunn". Directly using Strings like this may be risky... </li>
+</ul> 
 
 <h3>Use an enum!</h3>
 
