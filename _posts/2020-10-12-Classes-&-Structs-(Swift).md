@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classes & Structs
+title: Classes & Structs (Swift)
 ---
 
 <h2>Distinguishing Between Classes and Structs</h2>
@@ -48,7 +48,7 @@ Your boss uses the same software, and keeps track of the changes you record. The
 If you copy a class, you'll have two references to one instance of the data. 
 If you copy a struct, you'll have two instances, each with unique copies of the data.
 
-<h2>When to use which?</h3>
+<h3>When to use which?</h3>
 Generally, structs should be used over classes by default, unless you need the additional capabilties (mentioned earlier) the class provides.
 
 <h3>Reading:</h3>
