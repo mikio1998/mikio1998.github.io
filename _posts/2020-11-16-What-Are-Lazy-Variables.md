@@ -3,7 +3,7 @@ layout: post
 title: What Are Lazy Variables
 ---
 
-Variables can be <code>lazy</code> to save processing time of your running code. A lazy variable is created only when it is called upon. 
+Variables can be <code>lazy</code> to save processing time of your running code. <b>A lazy variable is created only when it is called upon.</b> 
 
 <h2>Example</h2>
 Here is a struct called Person, that has an <code>age</code> variable, as well as a <code>fibonacciOfAge</code> variable. Also, <code>Person()</code> has a function that calculates
