@@ -23,12 +23,12 @@ func howsTheWeather(weather: String) -> String {
 Some issues:
 <ul>
   <li> It's not just sunny weather. </li>
-      Cloudy, wind, or snow are also weather conditions. </li>
+      Cloudy, wind, or snow are also weather conditions.
   <li> Erroneous typos or capital letters. </li>
-      Input errors are realistic such as "sunn". Directly using Strings like this may be risky... </li>
+      Input errors are realistic such as "sunn". Directly using Strings like this may be risky.
 </ul> 
 
-<h3>Use an enum!</h3>
+<h3>Use enum!</h3>
 
 ```swift
 // Example #2
