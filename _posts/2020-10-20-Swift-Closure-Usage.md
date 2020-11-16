@@ -5,6 +5,7 @@ title: Swift Closure Usage
 
 What's a Closure?
 <br>
+
 A closure is a function packaged in a block, which can then be passed around such as be assigned to a variable.
 
 ```swift
