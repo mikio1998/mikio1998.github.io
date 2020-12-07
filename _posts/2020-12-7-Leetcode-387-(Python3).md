@@ -5,7 +5,8 @@ title: Leetcode 387 (Python3)
 <h2>Prompt:</h2>
 Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.
 
-```python3
+
+```python
 s = "leetcode"
 return 0.
 
@@ -16,7 +17,7 @@ return 2.
 
 <h3>Solution</h3>
 
-```python3
+```python
 def firstUniqChar(s: str):
     count = {}
 
