@@ -6,7 +6,7 @@ title: Leetcode 387 (Python3)
 Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.
 
 
-```python 3
+```python
 s = "leetcode"
 return 0.
 
