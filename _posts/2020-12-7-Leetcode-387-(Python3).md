@@ -57,7 +57,7 @@ test(firstUniqChar("loveleetcode"), 2) # SUCCESS
 </ul>
 
 <ul> <h3>Topics:</h3>
-<li>Liner Search</li>
+<li>Linear Search</li>
 <li>Hash map (python dict)</li>
 </ul>
 
