@@ -20,14 +20,12 @@ return 2.
 ```python
 def firstUniqChar(s: str):
     count = {}
-
     for index in range(len(s)):
         current_char = s[index]
         if current_char not in count:
             count[s[index]] = (1, index)
         else:
             count[s[index]] = (count[s[index]][0] + 1, index)
-
     for character, occurrence_counter in count.items():
         if occurrence_counter[0] == 1:
             return occurrence_counter[1]
