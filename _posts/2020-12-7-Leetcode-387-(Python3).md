@@ -42,6 +42,7 @@ def test(actual, expected):
 
 test(firstUniqChar("leetcode"), 0) # SUCCESS
 test(firstUniqChar("loveleetcode"), 2) # SUCCESS
+test(firstUniqChar(""), -1) # SUCCESS
 ```
 
 <h2>Explained</h2>
