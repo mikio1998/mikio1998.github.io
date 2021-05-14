@@ -13,5 +13,4 @@ that is entirely up to you to determine how to acquire. Compared to when I learn
 get a grasp of passing data this early in my learning. 
 
 What is commonly said about React, and something I assume I'll learn sooner or later, is that while React is simple and develops extremely fast, 
-in the long run it won't outperfom the depth of native development. However this is just the nature of things and situational on the 
-size of the project you have in mind. 
+in the long run it won't outperfom the depth of native development. However this is just the nature of things that comes with great benefits such as not having to re-invent the wheel from scratch, and situational on the size of the project you have in mind. 
