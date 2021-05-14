@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Enum Notes  
+visible: 1
 ---
 Enums in Swift are used to create your own type of value. They can be incredibly useful when used with switch statements. 
 
