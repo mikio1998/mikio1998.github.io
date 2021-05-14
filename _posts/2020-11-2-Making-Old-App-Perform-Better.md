@@ -38,6 +38,6 @@ In this version, I fetched the data during the launch screen. Here is a look at 
 I spent a lot of time struggling with constraints, which I'm inclined to study in the future.
 
 <b>Point #4:</b> <i>New plans:</i><br />
-<b>I've recently been exposed to how difficult it actually is to implement due to real-world issues.</b><br />
-While I believe the barcoding/QRcoding feature would have been a great solution for the workspace, there were things I couldn't fix in real life.
-The main culprit issue is the inconsistency of the barcodes provided by the manufacturer, which are often labeled incorrectly or have various codes for the same product. The labor of creating my own QR/barcodes (assuming I would also have to print them) is not a feasible solution. While it's unfortunate, I might plan other new solutions in the future.
+<b>I've recently been exposed to how difficult Bar/QR implementation would actually be, due to real-world issues.</b><br />
+While I believe the barcoding/QRcoding feature would have been a great solution for the workplace, there were things I couldn't fix in real life.
+The culprit issue is the inconsistency of the barcodes provided by the manufacturer, which are often labeled incorrectly or have various codes for the same product. The labor of creating my own QR/barcodes, (which assumes I would have to print out and attach) is not a feasible solution. While it's unfortunate, I might plan other new solutions in the future.
