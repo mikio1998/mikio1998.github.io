@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swift Closure Usage 
+visible: 1
 ---
 
 A closure is a function packaged in a block, which can then be passed around such as be assigned to a variable.
@@ -36,7 +37,7 @@ let closureName: (parameter types) -> return type = {
   Following the "in" is the closure's expression. 
 </ol> 
 
-Here's a realistic example using the structure above:
+A realistic example using the structure above:
 ```swift
 let announcement: (String, String) -> String = {
   (firstName: String, lastName:String) -> String in 
