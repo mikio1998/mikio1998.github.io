@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Classes & Structs in Swift
+visible: 1
 ---
 
-It's important to distinguish between Classes and Structs.
+Reviewing important basics in Swift: distinguishing between Classes and Structs.
 
 <h3>Commonalities of Class and Struct</h3>
 <ul> 
