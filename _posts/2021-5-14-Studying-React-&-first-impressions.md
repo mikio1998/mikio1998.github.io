@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Studying React and first impressions
+excerpt: pretty nice
 visible: 1
 ---
 
