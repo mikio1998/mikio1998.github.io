@@ -53,7 +53,7 @@ test(firstUniqChar(""), -1) # SUCCESS
 </ol>
 
 <ul> <h3>Other points:</h3>
-<li> Dictionary is ordered in added order. Thus the first hit is the earliest occurrence and can be returned as the solution, as stated in 2.</li>
+<li> Dictionary is ordered in added order. The first hit is the earliest occurrence and can be returned as the solution, as stated in 2.</li>
 <li> Corner case of empty string <code>""</code> returns -1.</li>
 </ul>
 
