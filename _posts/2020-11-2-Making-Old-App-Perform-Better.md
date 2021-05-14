@@ -15,9 +15,10 @@ Currently, I've finished my rework up to the point the app is ready to smoothly 
   <li>More realistic plans for the project, new ideas.</li>
 </ol> 
 
-
+<p>
 Point #1: <i>It's running on much less code.</i><br />
 The new code is much more efficient, legible, and disciplined. Ever since the first time I made this app, I have implemented new skills such as using a design pattern for organization.
+</p>  
 
 Point #2: <i>I pre-network the data, and overall it reduces the number of reads.</i><br />
 In the previous version of the app, networking occured in so many instances; swiping collections, entering and exiting pages, etc. 
