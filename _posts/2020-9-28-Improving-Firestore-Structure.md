@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Improving Firestore Structure 
+visible: 0
 ---
 
 The clothing store app I made was one of my first Swift projects, and I have improved my skills since then. While I am fond of it, I am planning to rework the 
