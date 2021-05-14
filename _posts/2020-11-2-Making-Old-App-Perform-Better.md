@@ -38,4 +38,6 @@ Point #3: <i>Setting constraints is... difficult.</i><br />
 I spent a lot of time struggling with constraints, which I'm inclined to study in the future.
 
 Point #4 <i>New plans:</i><br />
-While I believe the barcoding/QRcoding feature would make my app a great solution for the workspace, <b>I've recently been exposed to how difficult it actually is to implement due to real-world issues.</b> The main culprit issue is the inconsistency of the barcodes provided by the manufacturors, which often contain errors or have various codes for the same product. While it's unfortunate, I might plan other new solutions in the future.
+<b>I've recently been exposed to how difficult it actually is to implement due to real-world issues.</b><br />
+While I believe the barcoding/QRcoding feature would have been a great solution for the workspace, there were things I couldn't fix in real life.
+The main culprit issue is the inconsistency of the barcodes provided by the manufacturer, which are often labeled incorrectly or have various codes for the same product. The labor of creating my own QR/barcodes (assuming I would also have to print them) is not a feasible solution. While it's unfortunate, I might plan other new solutions in the future.
