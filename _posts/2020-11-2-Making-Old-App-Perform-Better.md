@@ -16,10 +16,10 @@ Currently, I've finished my rework up to the point the app is ready to smoothly 
 </ol> 
 
 
-1.It's running on much less code.
+Point #1: It's running on much less code.<br />
 The new code is much more efficient, legible, and disciplined. Ever since the first time I made this app, I have implemented new skills such as using a design pattern for organization.
 
-2.I pre-network the data, and overall it reduces the number of reads.
+Point #2: I pre-network the data, and overall it reduces the number of reads.<br />
 In the previous version of the app, networking occured in so many instances; swiping collections, entering and exiting pages, etc. 
 In this version, I fetched the data during the launch screen. Here is a look at how smooth the collection View has become:
 
@@ -33,8 +33,8 @@ In this version, I fetched the data during the launch screen. Here is a look at 
   <source type="video/mp4" src="https://mikio1998.github.io/images/11_2_2020//Collection_Recording_2.mp4">
 </video>
 
-3.Setting constraints is difficult
+Point #3: Setting constraints is... difficult. <br />
 I spent a lot of time struggling with constraints, which I'm inclined to study in the future.
 
-4.New plans
+Point #4 New plans: <br />
 While I believe the barcoding/QRcoding feature would make my app a great solution for the workspace, I've recently been exposed to how difficult it actually is to implement due to real-world issues. The main culprit issue is the inconsistency of the barcodes provided by the manufacturors, which often contain errors or have various codes for the same product. While it's unfortunate, I might plan other new solutions in the future.
