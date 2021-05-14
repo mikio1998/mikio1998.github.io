@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Better Flashcards (an app)  
-visible: 1
+visible: 0
 ---
 
 <div align="center">
