@@ -59,4 +59,4 @@ class DummyLaunchViewController: UIViewController {
 <div align="center">
 <img src="{{ site.baseurl }}/images/10_30_2020/preloading_clip.gif" alt="clip" width="400" height="340"/>
 </div>
-The gif quality is bad... but see how the dummy launch screen is unnoticable.
+Gif quality is really bad... but see how the dummy launch screen is unnoticable.
