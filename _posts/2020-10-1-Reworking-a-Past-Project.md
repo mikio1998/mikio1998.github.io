@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reworking a Past Project 
+visible: 1
 ---
 
 On the first day, I decided to start on the collection view that will be the products navigator/manual. I will use xib to design the cells I will use in my project. I also keep my project organized using better constants.
