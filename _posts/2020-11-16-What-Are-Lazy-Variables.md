@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Are Lazy Variables
+visibile: 1
 ---
 
 Variables can be <code>lazy</code> to save processing time of your running code. <b>A lazy variable is created only when it is called upon.</b> 
