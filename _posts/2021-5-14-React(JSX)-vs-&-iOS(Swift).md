@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Studying React and first impressions
-excerpt: 👍 
+title: React(JSX) vs iOS(Swift) 
+excerpt: Learning React 
 visible: 1
 ---
 
