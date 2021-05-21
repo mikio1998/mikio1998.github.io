@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leetcode 1 (Python3)
+title: Leetcode 1672 (Python3)
 visible: 1
 ---
 <h2>Prompt:</h2>
