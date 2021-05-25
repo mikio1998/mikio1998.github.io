@@ -24,9 +24,6 @@ Used FireStore to store product data and sales history of the store.
 <img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437"/>
 <br>
 Page-view inspired interface to display products categorized by brand. 
-[Updated Performance]({% https://mikio1998.github.io/Making-Old-App-Perform-Better/ 2020-11-2-Making-Old-App-Perform-Better %})
-[Updated Performance.]({% post_url 2020-11-2-Making-Old-App-Perform-Better %})
-{% post_url 2020-11-2-Making-Old-App-Perform-Better %}
 </div>
 
 <br>
