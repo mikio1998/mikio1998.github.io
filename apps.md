@@ -18,13 +18,13 @@ permalink: /apps/
 Sales accounting and storeplace tool for a clothing store in Tokyo. Assists staff by recording and storing sales history and fetching product information from FireStore by scanning a barcode.
 Integrated AVFoundation library to identify products by reading the barcode.
 Used FireStore to store product data and sales history of the store.
-
 <hr>
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/appdemo1.gif" alt="Appdemo 1" width="200" height="437"/>
 <br>
 Page-view inspired interface to display products categorized by brand. 
+[Updated Performance]({% https://mikio1998.github.io/Making-Old-App-Perform-Better/ 2020-11-2-Making-Old-App-Perform-Better %})
 </div>
 
 <br>
